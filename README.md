@@ -1,2 +1,1 @@
-# timestamp-microservice
-Timestamp microservice for FCC
+A timestamp microservice made for FCC.
